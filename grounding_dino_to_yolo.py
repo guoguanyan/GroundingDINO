@@ -372,7 +372,7 @@ if __name__ == "__main__":
 
 
     # 需要处理的图片文件夹
-    IMAGE_DIR   = "/home/cs/桌面/ggy_label_work/2472_实采_person/20260813/person_less/dataset_part_1/images"
+    IMAGE_DIR   = "./images"   
     # 保存yolo标签位置 
     OUTPUT_DIR  = os.path.dirname(IMAGE_DIR)
 
