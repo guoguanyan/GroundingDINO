@@ -2,7 +2,8 @@
   <img src="./.asset/grounding_dino_logo.png" width="30%">
 </div>
 
-weights下的模型通过huggingface加载
+1、运行grounding_dino_to_yolo.py
+2、weights下的模型通过huggingface加载
 
 # :sauropod: Grounding DINO 
 
