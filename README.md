@@ -6,6 +6,8 @@
 
 ## 2、weights下的模型通过huggingface加载
 
+## 3、脚本逻辑为可视化弹窗，同步调整阈值查看10张效果来确定标注框，然后遍历图片文件夹生成标注文件，主观输入映射类别自动生成classes.txt，生成yolo数据集
+
 # :sauropod: Grounding DINO 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/grounding-dino-marrying-dino-with-grounded/zero-shot-object-detection-on-mscoco)](https://paperswithcode.com/sota/zero-shot-object-detection-on-mscoco?p=grounding-dino-marrying-dino-with-grounded) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/grounding-dino-marrying-dino-with-grounded/zero-shot-object-detection-on-odinw)](https://paperswithcode.com/sota/zero-shot-object-detection-on-odinw?p=grounding-dino-marrying-dino-with-grounded) \
